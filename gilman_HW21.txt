@@ -1,0 +1,19 @@
+/* Project Name: Hands-On Excercises (HW21)
+Author: Kay Gilman
+Date Last Modified: 4/25/2019 */
+
+1.
+
+.hw{position: relative; left: 15px; background-color: #97f4b3;}
+
+2.
+
+#hw{position: fixed; background-color: #bec6c1; font-weight: bold; padding: 10px; }
+
+3.
+
+ul{list-style-image: url('myimage.gif');}
+
+4.
+
+ul{list-style-type: square;}
